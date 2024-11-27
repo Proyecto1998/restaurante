@@ -40,10 +40,10 @@
         "id": 5
     },
     {
-        "titulo": "Prueba final",
+        "titulo": "Pollo a la braza",
         "descripcion": "pollo",
         "precio": "45000",
-        "imagen": "http:\/\/localhost:8000\/uploads\/img_674679e27e77e3.29147156.jpg",
+        "imagen": "https:\/\/jhonpresthon.com.ar\/uploads\/img_67439f5c2b34f0.35982865.jpg",
         "categoria_id": "3",
         "id": 6
     }
