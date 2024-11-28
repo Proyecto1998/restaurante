@@ -1,6 +1,8 @@
 // Base API
 // let base_api = 'https://jhonpresthon.com.ar/api/api.php?';
-let base_api = 'http://localhost/resto/api/api.php?';
+let base_api = 'http://localhost:8000/api/api.php?';
+// let base_api = 'http://localhost/restaurante/api.php?';
+
 
 
 // Listas locales para almacenar los datos
