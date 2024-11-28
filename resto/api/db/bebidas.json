@@ -1,0 +1,163 @@
+[
+    {
+        "titulo": "Coca-Colassss",
+        "descripcion": "Bebida gaseosa 500ml",
+        "precio": 1.99,
+        "imagen": "url_de_la_imagen",
+        "cantidad": 10,
+        "id": 1
+    },
+    {
+        "titulo": "Agua",
+        "descripcion": "Agua pura",
+        "precio": "1000",
+        "imagen": "https:\/\/images.pexels.com\/photos\/416528\/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "cantidad": "1000",
+        "id": 2
+    },
+    {
+        "titulo": "Pepsi",
+        "descripcion": "pepsi",
+        "precio": "4000",
+        "imagen": "newe",
+        "cantidad": "2",
+        "id": 3
+    },
+    {
+        "titulo": "Manaaos",
+        "descripcion": "Bebida gaseosa 500ml",
+        "precio": 1.99,
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441783b491c5.25544256.jpg",
+        "cantidad": 10,
+        "categoria_id": 4,
+        "id": 4
+    },
+    {
+        "titulo": "Manaaos",
+        "descripcion": "Bebida gaseosa 500ml",
+        "precio": 1.99,
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441789594a62.03993397.jpg",
+        "cantidad": 10,
+        "id": 5
+    },
+    {
+        "titulo": "Manaaos",
+        "descripcion": "Bebida gaseosa 500ml",
+        "precio": 1.99,
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441a208c6c93.06615864.jpg",
+        "cantidad": 10,
+        "id": 6
+    },
+    {
+        "titulo": "paso de los toros",
+        "descripcion": "Bebida gaseosa 500ml",
+        "precio": 1.99,
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441a68452607.83165298.jpg",
+        "cantidad": 10,
+        "id": 7
+    },
+    {
+        "titulo": "paso de l",
+        "descripcion": "Bebida gaseosa 500ml",
+        "precio": 1.99,
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441b98f09fc6.95717355.jpg",
+        "cantidad": 10,
+        "id": 8
+    },
+    {
+        "titulo": "paso de l",
+        "descripcion": "Bebida gaseosa 500ml",
+        "precio": 1.99,
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441c48e01e09.11135818.jpg",
+        "cantidad": 10,
+        "id": 9
+    },
+    {
+        "titulo": "paso de l",
+        "descripcion": "Bebida gaseosa 500ml",
+        "precio": 1.99,
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441c547e8aa6.60279786.jpg",
+        "cantidad": 10,
+        "id": 10
+    },
+    {
+        "titulo": "pollo",
+        "descripcion": "3000",
+        "precio": "2000",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441ddcba14c7.02252292.jpg",
+        "cantidad": "2222",
+        "id": 11
+    },
+    {
+        "titulo": "pollo",
+        "descripcion": "3000",
+        "precio": "2000",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441ddcc1b4d2.64944763.jpg",
+        "cantidad": "2222",
+        "id": 12
+    },
+    {
+        "titulo": "pollo",
+        "descripcion": "3000",
+        "precio": "2000",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441ddcc26ed1.88632336.jpg",
+        "cantidad": "2222",
+        "id": 13
+    },
+    {
+        "titulo": "oll",
+        "descripcion": "ooo",
+        "precio": "8888",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441e120a04e2.80485999.jpg",
+        "cantidad": "999",
+        "id": 14
+    },
+    {
+        "titulo": "oll",
+        "descripcion": "ooo",
+        "precio": "8888",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441e12111aa1.22679494.jpg",
+        "cantidad": "999",
+        "id": 15
+    },
+    {
+        "titulo": "oll",
+        "descripcion": "ooo",
+        "precio": "8888",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441e1211ee12.78849389.jpg",
+        "cantidad": "999",
+        "id": 16
+    },
+    {
+        "titulo": "arroz",
+        "descripcion": "4000",
+        "precio": "20000",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441ea7a3df30.85988358.jpg",
+        "cantidad": "3333",
+        "id": 17
+    },
+    {
+        "titulo": "arroz",
+        "descripcion": "4000",
+        "precio": "20000",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441ea7a590a4.89399917.jpg",
+        "cantidad": "3333",
+        "id": 18
+    },
+    {
+        "titulo": "arroz",
+        "descripcion": "4000",
+        "precio": "20000",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441ea7ab56e0.16450325.jpg",
+        "cantidad": "3333",
+        "id": 19
+    },
+    {
+        "titulo": "final ",
+        "descripcion": "hola",
+        "precio": "2000",
+        "imagen": "http:\/\/localhost:8000\/uploads\/img_67441f4f1c3f48.73822400.jpg",
+        "cantidad": "2000",
+        "id": 20
+    }
+]

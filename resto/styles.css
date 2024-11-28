@@ -1,0 +1,149 @@
+/* styles.css */
+
+/* Corrección global para el box-sizing */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0; /* Evita márgenes que puedan causar desbordamiento */
+    padding: 0;
+    font-size: 16px;
+    overflow-x: hidden; /* Elimina el scroll horizontal */
+    width: 100%;
+    text-transform: uppercase;
+}
+
+/* Títulos */
+h1 {
+    font-size: 2em;
+    padding: 1em;
+    font-family: "Mochiy Pop P One", sans-serif;
+    font-weight: 400;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    text-align: center;
+    max-width: 100%; /* Previene desbordamiento */
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 1em;
+    margin:0.5em; /* Evita márgenes inesperados */
+}
+
+h4 {
+    margin-top: 36px;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+}
+
+/* Header */
+header {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15em;
+    margin-bottom: 3em;
+    width: 100%; /* Ajuste de ancho */
+    max-width: 100%;
+    box-sizing: border-box; /* Incluye padding y bordes en el cálculo */
+}
+
+header h1 {
+    margin: 0 auto;
+    font-size: 2em;
+    max-width: 100%;
+    text-align: center;
+}
+
+/* Secciones */
+section {
+    margin: 0 auto; /* Centra horizontalmente */
+    width: 90%; /* Ajusta el ancho de la sección */
+    max-width: 800px; /* Limita el ancho máximo */
+    padding: 1.5em;
+    border-radius: 0.5em;
+    display: flex;
+    flex-direction: column; /* Acomoda los elementos en columna */
+    align-items: center; /* Centra horizontalmente el contenido */
+    justify-content: center; /* Centra verticalmente */
+    border-radius: 0.1em , 0.1em , 0.1em , 0.1em;
+    padding: 1em;
+}
+
+section img {
+    display: block;
+    margin: 1em auto; /* Centra la imagen dentro del contenedor */
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.5em;
+}
+
+/* Listas */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%; /* Asegura que no cause desbordamiento */
+}
+
+ul li {
+    text-align: center;
+    background-color:#f2f4f4  ;
+    margin: 1em 0;
+    border-radius: 0.5em;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-bottom:  rgba(255, 127, 80, 1) solid 0.1em
+}
+
+li:hover,
+li:focus {
+    box-shadow: 0 0 0.5em #555;
+}
+
+ul li p {
+    font-size: 1em;
+    color: #333;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 3em;
+    font-size: 0.9em;
+    padding: 20px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+/* Paletas de colores */
+.fondo{
+    background: linear-gradient(
+        90deg,
+        rgba(255, 160, 122, 1) 0%,
+        rgba(255, 127, 80, 1) 30%,
+        rgba(255, 99, 71, 1) 44%,
+        rgba(255, 69, 0, 1) 55%,
+        rgba(255, 140, 0, 1) 73%,
+        rgba(255, 165, 0, 1) 82%,
+        rgba(252, 176, 69, 1) 100%
+    );
+}
+
+.fondo2{
+    background-color: #fefefe;
+}
+
+.color{
+    color: #fefefe;
+}
