@@ -3,7 +3,7 @@
         "id": 1,
         "titulo": "Pizza Margheritaaa",
         "descripcion": "Pizza con tomate y mozzarella",
-        "precio": 8.5,
+        "precio": 9000,
         "imagen": "https:\/\/jhonpresthon.com.ar\/uploads\/img_67439f5c2b34f0.35982865.jpg",
         "categoria_id": 1
     },
@@ -11,21 +11,21 @@
         "id": 2,
         "titulo": "Hamburguesa",
         "descripcion": "Hamburguesa con carne, queso y lechuga",
-        "precio": 5,
+        "precio": 5000,
         "imagen": "https:\/\/jhonpresthon.com.ar\/uploads\/img_67439f5c2b34f0.35982865.jpg",
         "categoria_id": 2
     },
     {
-        "titulo": "Braina a pizza",
+        "titulo": "Brain a pizza",
         "descripcion": "Pizza con tomate y mozzarella",
-        "precio": 8.5,
+        "precio": 8500,
         "imagen": "https:\/\/jhonpresthon.com.ar\/uploads\/img_67439f5c2b34f0.35982865.jpg",
         "categoria_id": 2,
         "id": 3
     },
     {
         "titulo": "pollo",
-        "descripcion": "a la brasz",
+        "descripcion": "a la brasa",
         "precio": "222",
         "imagen": "https:\/\/jhonpresthon.com.ar\/uploads\/img_67439d13331849.82500051.jpg",
         "categoria_id": "2",
